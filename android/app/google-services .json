@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "977844469786",
+    "project_id": "eslam-8e400",
+    "storage_bucket": "eslam-8e400.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977844469786:android:b0188c4904d37dbc7fd1a3",
+        "android_client_info": {
+          "package_name": "eslam.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977844469786-agge8l3r1748keohmt66qek1i1dvmjne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeV6gBUsxL2VkJQZcdtIq0vt6F_aOPmLc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977844469786-agge8l3r1748keohmt66qek1i1dvmjne.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
